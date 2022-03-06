@@ -14,3 +14,7 @@ I’m currently working on xiaomi
   - 用最酷的技术
   - 做最秀的产品
 - 改变世界，哪怕只有一点点
+
+## 我的博客：
+- [CSDN](https://blog.csdn.net/qq_39807732)
+- [掘金](https://juejin.cn/user/3747568538364318)
