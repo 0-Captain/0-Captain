@@ -13,7 +13,7 @@ I’m currently working on xiaomi
 - 我的目标：
   - 用最酷的技术
   - 做最秀的产品
-- 改变世界，哪怕只有一点点
+- 改变世界，从眼下做起
 
 ## 我的博客：
 - [CSDN](https://blog.csdn.net/qq_39807732)
