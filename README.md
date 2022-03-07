@@ -18,3 +18,7 @@ I’m currently working on xiaomi
 ## 我的博客：
 - [CSDN](https://blog.csdn.net/qq_39807732)
 - [掘金](https://juejin.cn/user/3747568538364318)
+
+## 主要项目：
+- [draggable-ts](https://github.com/0-Captain/draggable-ts)：好用的拖拽库，主要特点为多端兼容、高性能、代码结构清晰
+
